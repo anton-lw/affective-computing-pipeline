@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+python-dotenv
+vaderSentiment
+torch
+transformers
+google-generativeai
+matplotlib
+seaborn
+ruptures
